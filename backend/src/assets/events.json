@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Show de Rock",
+    "startDate": "2025-09-15T20:00:00Z",
+    "endDate": "2025-09-15T23:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Exposição de Arte Moderna",
+    "startDate": "2025-09-20T10:00:00Z",
+    "endDate": "2025-10-20T18:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Peça: O Fantasma da Ópera",
+    "startDate": "2025-09-25T19:30:00Z",
+    "endDate": "2025-09-25T22:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Exposição de Cinema",
+    "startDate": "2025-10-01T14:00:00Z",
+    "endDate": "2025-10-05T22:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Show de Pagode",
+    "startDate": "2025-10-10T21:00:00Z",
+    "endDate": "2025-10-10T23:30:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Exposição de Fotografia",
+    "startDate": "2025-09-20T10:00:00Z",
+    "endDate": "2025-10-20T18:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Peça: Hamlet",
+    "startDate": "2025-10-15T20:00:00Z",
+    "endDate": "2025-10-15T23:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Aula de Dança",
+    "startDate": "2025-10-18T18:00:00Z",
+    "endDate": "2025-10-19T22:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Show de Reggae",
+    "startDate": "2025-10-25T22:00:00Z",
+    "endDate": "2025-10-26T01:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Exposição de Esculturas",
+    "startDate": "2025-11-01T09:00:00Z",
+    "endDate": "2025-11-30T17:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Peça: A Bela e a Fera",
+    "startDate": "2025-11-05T19:00:00Z",
+    "endDate": "2025-11-05T21:30:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Feira de Gastronomia",
+    "startDate": "2025-11-10T12:00:00Z",
+    "endDate": "2025-11-12T23:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Show de Punk",
+    "startDate": "2025-11-15T21:30:00Z",
+    "endDate": "2025-11-15T23:59:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Exposição de Carros",
+    "startDate": "2025-11-20T10:00:00Z",
+    "endDate": "2025-11-22T18:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Peça: O Mágico de Oz",
+    "startDate": "2025-11-25T19:30:00Z",
+    "endDate": "2025-11-25T22:00:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Exposição de Artesanato",
+    "startDate": "2025-12-01T10:00:00Z",
+    "endDate": "2025-12-05T20:00:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Show de MPB",
+    "startDate": "2025-12-10T22:00:00Z",
+    "endDate": "2025-12-11T00:30:00Z"
+  },
+  {
+    "id": 18,
+    "name": "Exposição de Dinossauros",
+    "startDate": "2025-12-15T09:00:00Z",
+    "endDate": "2026-01-15T17:00:00Z"
+  },
+  {
+    "id": 19,
+    "name": "Peça: Romeu e Julieta",
+    "startDate": "2025-11-25T19:30:00Z",
+    "endDate": "2025-11-25T22:00:00Z"
+  },
+  {
+    "id": 20,
+    "name": "Show de Música Clássica",
+    "startDate": "2026-01-10T19:00:00Z",
+    "endDate": "2026-01-12T22:00:00Z"
+  },
+  {
+    "id": 21,
+    "name": "Show de Jazz",
+    "startDate": "2026-01-20T21:00:00Z",
+    "endDate": "2026-01-20T23:30:00Z"
+  },
+  {
+    "id": 22,
+    "name": "Exposição de Arte Abstrata",
+    "startDate": "2025-12-15T09:00:00Z",
+    "endDate": "2026-01-15T17:00:00Z"
+  },
+  {
+    "id": 23,
+    "name": "Peça: Gota D'Água",
+    "startDate": "2026-02-05T20:00:00Z",
+    "endDate": "2026-02-05T22:30:00Z"
+  },
+  {
+    "id": 24,
+    "name": "Filme: Star Wars - A Nova Esperança",
+    "startDate": "2026-02-10T15:00:00Z",
+    "endDate": "2026-02-15T23:00:00Z"
+  },
+  {
+    "id": 25,
+    "name": "Show de Soul",
+    "startDate": "2026-02-20T21:30:00Z",
+    "endDate": "2026-02-20T23:59:00Z"
+  },
+  {
+    "id": 26,
+    "name": "Exposição de Livros",
+    "startDate": "2026-03-01T10:00:00Z",
+    "endDate": "2026-03-05T18:00:00Z"
+  },
+  {
+    "id": 27,
+    "name": "Peça: O Rei Leão",
+    "startDate": "2026-03-10T19:00:00Z",
+    "endDate": "2026-03-10T21:30:00Z"
+  },
+  {
+    "id": 28,
+    "name": "Exposição de Quadrinhos",
+    "startDate": "2026-03-15T11:00:00Z",
+    "endDate": "2026-03-18T21:00:00Z"
+  },
+  {
+    "id": 29,
+    "name": "Show de Samba",
+    "startDate": "2026-03-25T21:00:00Z",
+    "endDate": "2026-03-25T23:30:00Z"
+  },
+  {
+    "id": 30,
+    "name": "Exposição de Grafite",
+    "startDate": "2026-03-01T10:00:00Z",
+    "endDate": "2026-03-05T18:00:00Z"
+  }
+]
